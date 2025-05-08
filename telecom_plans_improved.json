@@ -1,0 +1,338 @@
+{
+  "telecom_providers": {
+    "jio": {
+      "plans": {
+        "prepaid": {
+          "monthly_plans": [
+            {
+              "price": 189,
+              "data": "2GB",
+              "validity": 28,
+              "benefits": "Unlimited voice & SMS",
+              "type": "prepaid"
+            },
+            {
+              "price": 249,
+              "data": "1GB/day",
+              "validity": 28,
+              "benefits": "Unlimited voice & SMS",
+              "type": "prepaid"
+            },
+            {
+              "price": 299,
+              "data": "1.5GB/day",
+              "validity": 28,
+              "benefits": "Unlimited voice & SMS",
+              "type": "prepaid"
+            },
+            {
+              "price": 349,
+              "data": "2GB/day",
+              "validity": 28,
+              "benefits": "Unlimited voice & SMS",
+              "additional_benefits": "Unlimited 5G data",
+              "type": "prepaid"
+            },
+            {
+              "price": 399,
+              "data": "2.5GB/day",
+              "validity": 28,
+              "benefits": "Unlimited voice & SMS",
+              "additional_benefits": "Unlimited 5G data",
+              "type": "prepaid"
+            },
+            {
+              "price": 449,
+              "data": "3GB/day",
+              "validity": 28,
+              "benefits": "Unlimited voice & SMS",
+              "additional_benefits": "Unlimited 5G data",
+              "type": "prepaid"
+            }
+          ],
+          "twomonth_plans": [
+            {
+              "price": 579,
+              "data": "1.5GB/day",
+              "validity": 56,
+              "benefits": "Unlimited voice & SMS",
+              "type": "prepaid"
+            },
+            {
+              "price": 629,
+              "data": "2GB/day",
+              "validity": 56,
+              "benefits": "Unlimited voice & SMS",
+              "additional_benefits": "Unlimited 5G data",
+              "type": "prepaid"
+            }
+          ],
+          "threemonth_plans": [
+            {
+              "price": 479,
+              "data": "6GB",
+              "validity": 84,
+              "benefits": "Unlimited voice & SMS",
+              "type": "prepaid"
+            },
+            {
+              "price": 799,
+              "data": "1.5GB/day",
+              "validity": 84,
+              "benefits": "Unlimited voice & SMS",
+              "type": "prepaid"
+            },
+            {
+              "price": 859,
+              "data": "2GB/day",
+              "validity": 84,
+              "benefits": "Unlimited voice & SMS",
+              "additional_benefits": "Unlimited 5G data",
+              "type": "prepaid"
+            },
+            {
+              "price": 1199,
+              "data": "3GB/day",
+              "validity": 84,
+              "benefits": "Unlimited voice & SMS",
+              "additional_benefits": "Unlimited 5G data",
+              "type": "prepaid"
+            }
+          ],
+          "annual_plans": [
+            {
+              "price": 1899,
+              "data": "24GB",
+              "validity": 336,
+              "benefits": "Unlimited voice & SMS",
+              "type": "prepaid"
+            },
+            {
+              "price": 3599,
+              "data": "2.5GB/day",
+              "validity": 365,
+              "benefits": "Unlimited voice & SMS",
+              "additional_benefits": "Unlimited 5G data",
+              "type": "prepaid"
+            }
+          ],
+          "data_addons": [
+            {
+              "price": 19,
+              "data": "1GB",
+              "validity": "base plan",
+              "type": "Data add-on"
+            },
+            {
+              "price": 29,
+              "data": "2GB",
+              "validity": "base plan",
+              "type": "Data add-on"
+            },
+            {
+              "price": 69,
+              "data": "6GB",
+              "validity": "base plan",
+              "type": "Data add-on"
+            }
+          ]
+        },
+        "postpaid": [
+          {
+            "price": 349,
+            "data": "30GB",
+            "validity": "bill cycle",
+            "benefits": "Unlimited voice & SMS",
+            "type": "postpaid"
+          },
+          {
+            "price": 449,
+            "data": "75GB",
+            "validity": "bill cycle",
+            "benefits": "Unlimited voice & SMS",
+            "type": "postpaid"
+          }
+        ]
+      },
+      "notes": [
+        "Unlimited 5G data available on all 2GB/day and above plans",
+        "New plans effective from 3rd July 2024",
+        "JioBharat/JioPhone users continue to enjoy existing tariffs"
+      ]
+    },
+    "airtel": {
+      "plans": {
+        "prepaid": {
+          "unlimited_voice_plans": [
+            {
+              "price": 199,
+              "data": "2GB",
+              "validity": 28,
+              "benefits": "UL Calling, 100 SMS/day",
+              "type": "prepaid"
+            },
+            {
+              "price": 509,
+              "data": "6GB",
+              "validity": 84,
+              "benefits": "UL calling, 100SMS/day",
+              "type": "prepaid"
+            },
+            {
+              "price": 1999,
+              "data": "24GB",
+              "validity": 365,
+              "benefits": "UL calling, 100 SMS/day",
+              "type": "prepaid"
+            }
+          ],
+          "daily_data_plans": [
+            {
+              "price": 299,
+              "data": "1GB/day",
+              "validity": 28,
+              "benefits": "UL Calling, 100SMS/day",
+              "type": "prepaid"
+            },
+            {
+              "price": 349,
+              "data": "1.5GB/day",
+              "validity": 28,
+              "benefits": "UL Calling, 100SMS/day",
+              "type": "prepaid"
+            },
+            {
+              "price": 409,
+              "data": "2.5GB/day",
+              "validity": 28,
+              "benefits": "UL Calling, 100SMS/day",
+              "additional_benefits": "Unlimited 5G data",
+              "type": "prepaid"
+            },
+            {
+              "price": 449,
+              "data": "3GB/day",
+              "validity": 28,
+              "benefits": "UL Calling, 100SMS/day",
+              "additional_benefits": "Unlimited 5G data",
+              "type": "prepaid"
+            },
+            {
+              "price": 579,
+              "data": "1.5GB/day",
+              "validity": 56,
+              "benefits": "UL Calling, 100SMS/day",
+              "type": "prepaid"
+            },
+            {
+              "price": 649,
+              "data": "2GB/day",
+              "validity": 56,
+              "benefits": "UL Calling, 100SMS/day",
+              "additional_benefits": "Unlimited 5G data",
+              "type": "prepaid"
+            },
+            {
+              "price": 859,
+              "data": "1.5GB/day",
+              "validity": 84,
+              "benefits": "UL Calling, 100SMS/day",
+              "type": "prepaid"
+            },
+            {
+              "price": 979,
+              "data": "2GB/day",
+              "validity": 84,
+              "benefits": "UL Calling, 100SMS/day",
+              "additional_benefits": "Unlimited 5G data",
+              "type": "prepaid"
+            },
+            {
+              "price": 3599,
+              "data": "2GB/day",
+              "validity": 365,
+              "benefits": "UL Calling, 100SMS/day",
+              "additional_benefits": "Unlimited 5G data",
+              "type": "prepaid"
+            }
+          ],
+          "data_addons": [
+            {
+              "price": 22,
+              "data": "1GB",
+              "validity": "1 day",
+              "type": "Data add-on"
+            },
+            {
+              "price": 33,
+              "data": "2GB",
+              "validity": "1 day",
+              "type": "Data add-on"
+            },
+            {
+              "price": 77,
+              "data": "4GB",
+              "validity": "Plan validity",
+              "type": "Data add-on"
+            }
+          ]
+        },
+        "postpaid": [
+          {
+            "price": 449,
+            "data": "40GB",
+            "connections": 1,
+            "benefits": "Unlimited Calling, 100 SMS/day, Xstream Premium Subscription",
+            "type": "postpaid"
+          },
+          {
+            "price": 549,
+            "data": "75GB",
+            "connections": 1,
+            "benefits": "Unlimited Calling, 100 SMS/day, Xstream Premium Subscription, Disney+Hotstar Subscription 12months, Amazon Prime Subscription 6months",
+            "type": "postpaid"
+          },
+          {
+            "price": 699,
+            "data": "105GB",
+            "connections": 2,
+            "plan_type": "Family of 2 Connections",
+            "benefits": "Unlimited Calling, 100 SMS/day, Xstream Premium Subscription, Disney+Hotstar Subscription 12months, Amazon Prime Subscription 6months, Wynk Premium",
+            "type": "postpaid"
+          },
+          {
+            "price": 1199,
+            "data": "190GB",
+            "connections": 4,
+            "plan_type": "Family of 4 connections",
+            "benefits": "Unlimited Calling, 100 SMS/day, Xstream Premium Subscription, Disney+Hotstar subscription 12months, Amazon Prime Subscription 6months, Wynk Premium",
+            "type": "postpaid"
+          }
+        ],
+        "notes": [
+          "All customers on 2GB per day and above plans can enjoy unlimited 5G data"
+        ]
+      }
+    },
+    "vi": {
+      "plans": {
+        "message": "Vi plan data not available. Please check the Vi website for current plans."
+      }
+    }
+  },
+  "metadata": {
+    "jio": {
+      "source": "Media Release dated 27th June 2024",
+      "effective_date": "3rd July 2024"
+    },
+    "airtel": {
+      "source": "Provided pricing tables",
+      "effective_prices": "Revised MRP only"
+    },
+    "vi": {
+      "source": "Provided pricing tables",
+      "effective_prices": "Revised/New plan prices only"
+    },
+    "last_updated": "May 8, 2025"
+  }
+}
