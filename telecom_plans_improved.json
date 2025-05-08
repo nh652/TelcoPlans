@@ -316,8 +316,157 @@
     },
     "vi": {
       "plans": {
-        "message": "Vi plan data not available. Please check the Vi website for current plans."
-      }
+        "prepaid": {
+          "unlimited_voice_plans": [
+            {
+              "price": 199,
+              "data": "2GB",
+              "validity": 28,
+              "benefits": "Unlimited Calling, 300 SMS",
+              "type": "prepaid"
+            },
+            {
+              "price": 509,
+              "data": "6GB",
+              "validity": 84,
+              "benefits": "Unlimited Calling, 300 SMS",
+              "type": "prepaid"
+            },
+            {
+              "price": 1999,
+              "data": "24GB",
+              "validity": 365,
+              "benefits": "Unlimited Calling, 300 SMS",
+              "type": "prepaid"
+            }
+          ],
+          "daily_data_plans": [
+            {
+              "price": 299,
+              "data": "1GB/day",
+              "validity": 28,
+              "benefits": "Unlimited Calling, 100 SMS/Day",
+              "type": "prepaid"
+            },
+            {
+              "price": 349,
+              "data": "1.5GB/day",
+              "validity": 28,
+              "benefits": "Unlimited Calling, 100 SMS/Day",
+              "additional_benefits": "Unlimited Data (12am to 6am), Weekend data rollover, Data Delight",
+              "type": "prepaid"
+            },
+            {
+              "price": 379,
+              "data": "2GB/day",
+              "validity": 30,
+              "benefits": "Unlimited Calling, 100 SMS/Day",
+              "additional_benefits": "Unlimited Data (12am to 6am), Weekend data rollover, Data Delight",
+              "type": "prepaid"
+            },
+            {
+              "price": 579,
+              "data": "1.5GB/day",
+              "validity": 56,
+              "benefits": "Unlimited Calling, 100 SMS/Day",
+              "additional_benefits": "Unlimited Data (12am to 6am), Weekend data rollover, Data Delight",
+              "type": "prepaid"
+            },
+            {
+              "price": 649,
+              "data": "2GB/day",
+              "validity": 56,
+              "benefits": "Unlimited Calling, 100 SMS/Day",
+              "additional_benefits": "Unlimited Data (12am to 6am), Weekend data rollover, Data Delight",
+              "type": "prepaid"
+            },
+            {
+              "price": 859,
+              "data": "1.5GB/day",
+              "validity": 84,
+              "benefits": "Unlimited Calling, 100 SMS/Day",
+              "additional_benefits": "Unlimited Data (12am to 6am), Weekend data rollover, Data Delight",
+              "type": "prepaid"
+            },
+            {
+              "price": 979,
+              "data": "2GB/day",
+              "validity": 84,
+              "benefits": "Unlimited Calling, 100 SMS/Day",
+              "additional_benefits": "Unlimited Data (12am to 6am), Weekend data rollover, Data Delight",
+              "type": "prepaid"
+            },
+            {
+              "price": 3499,
+              "data": "1.5GB/day",
+              "validity": 365,
+              "benefits": "Unlimited Calling, 100 SMS/Day",
+              "additional_benefits": "Unlimited Data (12am to 6am), Weekend data rollover, Data Delight",
+              "type": "prepaid"
+            }
+          ],
+          "data_addons": [
+            {
+              "price": 22,
+              "data": "1GB",
+              "validity": "1 day",
+              "type": "Data add-on"
+            },
+            {
+              "price": 48,
+              "data": "6GB",
+              "validity": "3 days",
+              "type": "Data add-on"
+            }
+          ]
+        },
+        "postpaid": [
+          {
+            "price": 451,
+            "data": "50GB",
+            "connections": 1,
+            "plan_type": "Individual Plan",
+            "benefits": "Unlimited Voice, Unlimited Night data, 3000 SMS",
+            "additional_benefits": "Up to 200GB data rollover, Choose any 1 complimentary benefit: Disney+Hotstar, Sony LIV, Sun NXT, EaseMy Trip discount coupons, Norton mobile security (12 Months)",
+            "type": "postpaid"
+          },
+          {
+            "price": 551,
+            "data": "90GB",
+            "connections": 1,
+            "plan_type": "Individual Plan",
+            "benefits": "Unlimited Voice, Unlimited Night data, 3000 SMS",
+            "additional_benefits": "Up to 200GB data rollover, Choose any 2 complimentary benefits from 8 options: Amazon Prime, Swiggy One, EazyDiner (6 Months), Disney+Hotstar, Sony LIV, Sun NXT, EaseMy Trip discount coupons, Norton mobile security (12 Months)",
+            "type": "postpaid"
+          },
+          {
+            "price": 701,
+            "data": "110GB",
+            "connections": 2,
+            "plan_type": "Family 2 line Plan",
+            "benefits": "Unlimited Voice, Unlimited Night data for Primary, 3000 SMS",
+            "additional_details": "70GB data for Primary + 40GB data for secondary",
+            "additional_benefits": "Up to 200GB data rollover, Primary can choose any 2 complimentary benefits from 6 options: Amazon Prime (6 Months), Disney+Hotstar, Sony LIV, Sun NXT, EaseMy Trip discount coupons, Norton mobile security (12 Months)",
+            "type": "postpaid"
+          },
+          {
+            "price": 1201,
+            "data": "260GB",
+            "connections": 4,
+            "plan_type": "Family 4 line Plan",
+            "benefits": "Unlimited Voice, Unlimited Night data for Primary, 3000 SMS",
+            "additional_details": "140GB data for Primary + 40GB data for each secondary",
+            "additional_benefits": "Up to 200GB data rollover, Primary can choose any 2 complimentary benefits from 8 options: Amazon Prime, Swiggy One, EazyDiner (6 Months), Disney+Hotstar, Sony LIV, Sun NXT, EMT discount coupons, Norton mobile security (12 Months)",
+            "type": "postpaid"
+          }
+        ]
+      },
+      "notes": [
+        "Vi Max plans offer complimentary benefits with all postpaid plans",
+        "Night unlimited data available with all postpaid plans",
+        "Data rollover up to 200GB available across all postpaid plans",
+        "Daily data plans include additional benefits like unlimited night data and weekend data rollover"
+      ]
     }
   },
   "metadata": {
