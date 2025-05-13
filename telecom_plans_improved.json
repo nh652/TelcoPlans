@@ -116,6 +116,24 @@
               "type": "prepaid"
             }
           ],
+          "voice_only_plans": [
+            {
+              "price": 448,
+              "data": "0GB",
+              "validity": 84,
+              "benefits": "Unlimited voice calls, 1000 SMS",
+              "type": "prepaid",
+              "category": "Voice only"
+            },
+            {
+              "price": 1748,
+              "data": "0GB",
+              "validity": 336,
+              "benefits": "Unlimited voice calls, 3600 SMS",
+              "type": "prepaid",
+              "category": "Voice only"
+            }
+          ],
           "data_addons": [
             {
               "price": 19,
@@ -157,7 +175,8 @@
       "notes": [
         "Unlimited 5G data available on all 2GB/day and above plans",
         "New plans effective from 3rd July 2024",
-        "JioBharat/JioPhone users continue to enjoy existing tariffs"
+        "JioBharat/JioPhone users continue to enjoy existing tariffs",
+        "Voice-only plans available for users who primarily need calling services"
       ]
     },
     "airtel": {
@@ -184,6 +203,24 @@
               "validity": 365,
               "benefits": "UL calling, 100 SMS/day",
               "type": "prepaid"
+            }
+          ],
+          "voice_only_plans": [
+            {
+              "price": 469,
+              "data": "0GB",
+              "validity": 84,
+              "benefits": "Unlimited voice calls, 900 SMS",
+              "type": "prepaid",
+              "category": "Voice only"
+            },
+            {
+              "price": 1849,
+              "data": "0GB",
+              "validity": 365,
+              "benefits": "Unlimited voice calls, 3600 SMS",
+              "type": "prepaid",
+              "category": "Voice only"
             }
           ],
           "daily_data_plans": [
@@ -310,7 +347,8 @@
           }
         ],
         "notes": [
-          "All customers on 2GB per day and above plans can enjoy unlimited 5G data"
+          "All customers on 2GB per day and above plans can enjoy unlimited 5G data",
+          "Voice-only plans available for users who primarily need calling services with minimal SMS requirements"
         ]
       }
     },
@@ -338,6 +376,24 @@
               "validity": 365,
               "benefits": "Unlimited Calling, 300 SMS",
               "type": "prepaid"
+            }
+          ],
+          "voice_only_plans": [
+            {
+              "price": 470,
+              "data": "0GB",
+              "validity": 84,
+              "benefits": "Unlimited voice calls, 900 SMS",
+              "type": "prepaid",
+              "category": "Voice only"
+            },
+            {
+              "price": 1849,
+              "data": "0GB",
+              "validity": 365,
+              "benefits": "Unlimited voice calls, 3600 SMS",
+              "type": "prepaid",
+              "category": "Voice only"
             }
           ],
           "daily_data_plans": [
@@ -465,7 +521,8 @@
         "Vi Max plans offer complimentary benefits with all postpaid plans",
         "Night unlimited data available with all postpaid plans",
         "Data rollover up to 200GB available across all postpaid plans",
-        "Daily data plans include additional benefits like unlimited night data and weekend data rollover"
+        "Daily data plans include additional benefits like unlimited night data and weekend data rollover",
+        "Voice-only plans available for customers who don't require data services"
       ]
     }
   },
@@ -482,6 +539,6 @@
       "source": "Provided pricing tables",
       "effective_prices": "Revised/New plan prices only"
     },
-    "last_updated": "May 8, 2025"
+    "last_updated": "May 13, 2025"
   }
 }
